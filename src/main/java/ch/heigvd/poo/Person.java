@@ -1,6 +1,6 @@
 package ch.heigvd.poo;
 
-public class Person {
+abstract class Person {
     private String lname, fname;
 
     @Override

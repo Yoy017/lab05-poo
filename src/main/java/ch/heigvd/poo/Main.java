@@ -23,7 +23,7 @@ public class Main {
         g2.addLesson({l1});
 
         System.out.println("-- Membres de l'école\n");
-        Object[] arr_people = {
+        Person[] arr_people = {
                 p1, p2,
                 s1, s2, s3, s4, s5, s6
         };
