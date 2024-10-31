@@ -22,7 +22,7 @@ class Student extends Person {
         super(lname, fname);
     }
 
-    public void setGrp(Group grp){
+    protected void setGrp(Group grp){
         this.grp = grp;
     }
 
