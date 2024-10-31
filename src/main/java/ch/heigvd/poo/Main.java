@@ -32,6 +32,7 @@ public class Main {
         for(Person p : arr_people) {
             System.out.println(p);
         }
+        System.out.println("\n");
 
         System.out.println("-- Horaire du groupe IL6-1 (4 etudiants)\n");
         System.out.println(g1);
